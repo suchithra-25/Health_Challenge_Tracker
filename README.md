@@ -38,7 +38,7 @@ Follow these steps to run the application locally.
 
 1. <b>Clone the Repository:</b>
 <p>
-    git clone https://github.com/suchithra-25/Health challenge Tracker.git
+    git clone https://github.com/suchithra-25/Health_Challenge_Tracker.git
     cd Health Challenge Tracker
 </p>
 
